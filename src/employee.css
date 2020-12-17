@@ -1,0 +1,10 @@
+.employee{
+    width: 150px;
+    height: 120px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 30px;
+}
